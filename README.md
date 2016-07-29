@@ -25,3 +25,4 @@ pod 'PrettyRuler', '~> 2.1.1'
 2.正常模式也就是smellmode = no。
 
 ![Smaller icon](http://img.hoop8.com/attachments/1512/7703071188604.gif "正常模式")
+# timeline
